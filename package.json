@@ -4,7 +4,6 @@
   "description": "Checkout file(s) by providing substring(s)",
   "main": "dist/index.js",
   "bin": {
-    "goof": "dist/index.js",
     "git-checkout-file": "dist/index.js"
   },
   "scripts": {
