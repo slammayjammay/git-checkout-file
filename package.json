@@ -20,5 +20,8 @@
   "devDependencies": {
     "babel-cli": "^6.22.2",
     "babel-preset-es2015": "^6.22.0"
+  },
+  "dependencies": {
+    "git-files": "^0.3.0"
   }
 }
