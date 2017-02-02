@@ -1,7 +1,7 @@
 {
   "name": "git-checkout-file",
   "version": "0.1.0",
-  "description": "Checkout file(s) by providing substring(s)",
+  "description": "Checkout file(s) by providing substring(s) to match",
   "main": "dist/index.js",
   "bin": {
     "git-checkout-file": "dist/index.js"
