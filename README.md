@@ -12,7 +12,7 @@ $ npm pack
 # install the generated tarball
 $ npm install -g git-checkout-file-X.X.X.tgz # XXX is the semantic version
 # remove the repo
-$ cd ../ && rm -rf git-add-file
+$ cd ../ && rm -rf git-checkout-file
 ```
 
 I like to alias this with "goof"
