@@ -15,6 +15,6 @@ for (let glob of globs) {
 
 }
 
-for (let file of matchedFiles) {
+for (let file of Object.keys(matchedFiles)) {
 	execSync(`git checkout -- ${file}`)
 }
