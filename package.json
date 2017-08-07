@@ -9,7 +9,7 @@
   "scripts": {
     "build": "babel --presets=es2015 src/ -d dist/",
     "prepublish": "npm run build",
-    "preapre": "npm run build"
+    "prepare": "npm run build"
   },
   "keywords": [
     "git",
