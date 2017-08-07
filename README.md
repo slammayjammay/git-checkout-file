@@ -1,18 +1,7 @@
 # `git-checkout-file`
 
-This package is not on NPM, so installation is [pretty tedious](https://github.com/npm/npm/issues/3055).
 ```sh
-# clone the repo
-$ git clone https://github.com/slammayjammay/git-checkout-file.git
-$ cd git-checkout-file
-# install dependencies
-$ npm install
-# generate tarball
-$ npm pack
-# install the generated tarball
-$ npm install -g git-checkout-file-X.X.X.tgz # XXX is the semantic version
-# remove the repo
-$ cd ../ && rm -rf git-checkout-file
+$ npm install -g https://github.com/slammayjammay/git-checkout-file
 ```
 
 I like to alias this with "goof"
